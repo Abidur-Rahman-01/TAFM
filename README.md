@@ -17,6 +17,8 @@
   <a href="https://mem0.dev/demo">Demo</a>
 </p>
 
+<p align="center">TAFM — fork of embedchain with experimental setups and benchmarks for thesis work.</p>
+
 <p align="center">
   <a href="https://mem0.dev/DiG">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Mem0 Discord">
